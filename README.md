@@ -15,13 +15,13 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 ## DATA VISUALIZATION
 
 #### ii. Sales Overview DASHBOARD
-![2  Sales Overview](https://user-images.githubusercontent.com/45898995/119709090-a64aaa80-be7e-11eb-91bc-4870483b1401.png)
+![2  Sales Overview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSdXr_XaGKkZujvagcaPIPWRv7UmtUR0misYVYJlhNmlW2_0cAFtFC8zNhasgPitkwls&usqp=CAU)
 
 #### iii. Customer Details DASHBOARD
-![3  Customer Details](https://user-images.githubusercontent.com/45898995/119709961-a4351b80-be7f-11eb-87b8-13c6315b6eba.png)
+![3  Customer Details](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1661409363840x428531170048888060%2Fcover.png?w=&h=&auto=compress&dpr=1&fit=max)
 
 #### iv. Product Details DASHBOARD
-![4  Product Details](https://user-images.githubusercontent.com/45898995/119710084-c464da80-be7f-11eb-90b3-8e50a0f4ae20.png)
+![4  Product Details](https://www.scnsoft.com/images-for-slider-with-content/data-analytics/get-unparalleled-excel-integration-2.jpg)
 
 
 
