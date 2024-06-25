@@ -10,7 +10,8 @@ SELECT
   --,[DayNumberOfYear]
   [WeekNumberOfYear] AS WeekNumber, 
   [EnglishMonthName] AS Month, 
-  LEFT([EnglishMonthName], 3) AS MonthShort,	-- Take 3 characters from the left side of [EnglishMonthName] 
+  LEFT([EnglishMonthName], 3) AS MonthShort,	
+  -- Take 3 characters from the left side of [EnglishMonthName] 
   --,[SpanishMonthName]
   --,[FrenchMonthName]
   [MonthNumberOfYear] AS MonthNumber, 

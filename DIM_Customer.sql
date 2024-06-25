@@ -36,3 +36,4 @@ FROM
   LEFT JOIN dbo.DimGeography AS g ON g.GeographyKey = c.GeographyKey -- Joined DimGeography table using PK and FK
 ORDER BY 
   CustomerKey ASC
+  
